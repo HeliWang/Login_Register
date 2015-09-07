@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="Login.aspx.cs" Inherits="Default2" MasterPageFile="~/MasterPage.master" %>
+<%@ Page Language="C#" AutoEventWireup="true" CodeFile="Login.aspx.cs" Inherits="Default2" MasterPageFile="~/MasterPage.master" %>
 <asp:Content ID="login" ContentPlaceHolderID="ContentPlaceHolder1" runat="server"> 
     <div class="auto-style5">
     
@@ -6,7 +6,7 @@
             <span class="auto-style1">Login Page</span><br class="auto-style1" />
         </div>
         <table class="auto-style2">
-            <tr>
+            <tr>    
                 <td class="auto-style4">&nbsp;</td>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
